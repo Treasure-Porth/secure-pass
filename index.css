@@ -73,6 +73,8 @@ button{
     }
     .main #pass1, #pass2{
         font-size: 1.6vh;
+        height: 4vh;
+        width: 35vw;
     }
     
 }
